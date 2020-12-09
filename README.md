@@ -1,11 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Rails project utilizing Action Text introduced with Rails 6
 
-Things you may want to cover:
+* Ruby version 2.6.3
 
-* Ruby version
+* Rails 6.0.3
 
 * System dependencies
 
