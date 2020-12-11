@@ -6,6 +6,8 @@ This is a Rails project utilizing Action Text introduced with Rails 6
 
 * Rails 6.0.3
 
+* Action Text for rich text
+
 * System dependencies
 
 * Configuration
