@@ -8,6 +8,18 @@ This is a Rails project utilizing Action Text introduced with Rails 6
 
 * Action Text for rich text
 
+* Active Storage with image_processing for image manipulation
+
+* Devise for authentication
+
+* SimpleForm for forms
+
+* Will_paginate for pagination
+
+* FriendlyId for slugs
+
+* Faker for fake data 
+
 * System dependencies
 
 * Configuration
