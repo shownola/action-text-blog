@@ -15,6 +15,11 @@ class PostsController < ApplicationController
     views = @post.views + 1
     @post.update(views: views)
     @comments = @post.comments.order('created_at DESC')
+
+    @num_comments = @post.comments.count
+    @post.comments.each do |comment|
+      @num_comments = @num_comments + 1
+    end
   end
 
   # GET /posts/new
